@@ -40,11 +40,12 @@ elif(len(sys.argv) <2):
 if(len(sys.argv) ==1):
     sys.exit()
 
+#Used Slicing
 for n in sys.argv[1:]:
     print("hello,",n)
 
 #Using the cowsay 
-cowsay.cow("Hello, EveryOne")
+cowsay.dragon("Hello, EveryOne")
 
 # Output of cowsay.dragon("Hello, Kalpana")
 """   _______________
