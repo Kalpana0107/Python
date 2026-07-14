@@ -1,8 +1,2 @@
-hermoine
-Draco
 Harry
-Ron
-gryffindor
-slytherin
-ravenclaw
-hufflepuff
+Draco
