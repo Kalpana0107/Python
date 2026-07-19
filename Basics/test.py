@@ -1,3 +1,8 @@
+
+# Important Notes
+# Refer Func.py file to know what is written is inside Func.py
+# To run this you ned to run // pip install pytest  -- to install pytest
+
 from Func import hello
 from Func import square
 import sys
@@ -7,9 +12,8 @@ import sys
     
     
 def test_hello():
-    assert hello("kalpana") == "hello, kalpana"
+    assert hello("kalpana") == "hello,kalpana"
 
-#To run this you ned to run // pip install pytest  -- to install pytest
 
 def test_square():
     assert square(2) == 4
